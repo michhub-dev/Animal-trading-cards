@@ -1,0 +1,44 @@
+/* add your CSS here */
+* {
+  box-sizing: border-box;
+}
+body {
+  background: #eeeeee;
+}
+.container {
+  border: 1px solid grey;
+  padding: 1rem;
+}
+div#containt {
+  border: 1px solid grey;
+  margin-top: 15px;
+}
+h2 {
+  font-weight: bolder;
+  font-size: 2rem;
+  font-family: sans-serif;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+li {
+  list-style: none;
+}
+p.discription {
+  letter-spacing: 1px;
+  padding: 1rem;
+}
+p.facts {
+  font-style: italic;
+  padding: 1rem;
+}
+span {
+  font-weight: bold;
+}
+a {
+  color: rgb(255, 105, 180);
+}
+a:hover {
+  color: rgb(109, 22, 73);
+}
